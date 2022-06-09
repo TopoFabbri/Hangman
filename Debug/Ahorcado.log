@@ -1,0 +1,24 @@
+﻿  Ahorcado.cpp
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,24): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,24): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,34): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,34): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,44): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,49): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,49): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,54): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,54): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,59): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,59): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,64): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,64): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,69): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado.cpp(40,69): warning C4309: 'initializing': truncation of constant value
+  Ahorcado.vcxproj -> C:\Users\Administrator\source\repos\Ahorcado\Debug\Ahorcado.exe
